@@ -1,7 +1,7 @@
 ---
 title: "ESS 330 Actvity 4"
 subtitle: "Meet R, Quarto, & Github"
-author: Mike Johnson
+author: Sean Pearson
 date: last-modified
 format:
   html:
@@ -232,7 +232,7 @@ cities  |>
 
 ```{r}
 #| echo: false
-threshold <- 10000
+threshold <- 100000
 
 big_cities <-  cities |> 
   filter(population > threshold)  |> 
