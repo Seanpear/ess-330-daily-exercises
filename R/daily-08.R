@@ -1,3 +1,11 @@
+title: "Daily 8 Exercise"
+author: "Sean Pearson"
+date: "2025-03-27"
+format: html
+execute:
+  echo: true
+
+
 # Install tidyverse if it's not already installed
 install.packages("tidyverse")
 
